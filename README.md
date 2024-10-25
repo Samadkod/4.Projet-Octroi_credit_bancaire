@@ -1,4 +1,4 @@
-### 2. [Modélisation et Visualisation : Prédiction et Analyse de l'Octroi de Crédit Bancaire](https://github.com/Samadkod/Samadkod/blob/main/REPORTING%201.png)
+### 2. [Modélisation et Visualisation : Prédiction et Analyse de l'Octroi de Crédit Bancaire](https://github.com/Samadkod/Projet-Octroi_credit_bancaire/blob/main/REPORTING%201.png)
 
 <p align="center">
 <img src="https://static.medias24.com/content/uploads/2022/06/09/credit-fotolia_91049448_Subscription_Monthly_M-640x3120-1.jpg?x19712" width="1000" height="300" />
