@@ -24,4 +24,4 @@ Ce projet a pour objectif de **prédire la probabilité d'octroi d'un crédit ba
 > Vous pouvez consulter les ressources de ce projet via les liens suivants :  
 > - [Glossaire des données](https://github.com/Samadkod/Projet-Octroi_credit_bancaire/blob/main/Glossaire%2Bdes%2Bdonn%C3%A9es.pdf)  
 > - [Rapport KPI](https://github.com/Samadkod/Projet-Octroi_credit_bancaire/blob/main/Report_KPI.pdf)  
-> - [Dataset utilisé](https://github.com/Samadkod/Samadkod/blob/main/Dataset_1.xlsx)
+> - [Dataset utilisé](https://github.com/Samadkod/Projet-Octroi_credit_bancaire/blob/main/Dataset_1.xlsx)
